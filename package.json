@@ -1,0 +1,25 @@
+{
+  "name": "logogenerator",
+  "version": "1.0.0",
+  "description": "Node.js command-line application that takes in user input to generate a logo and save it as an [SVG file]",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SorenCharlie/LogoGenerator.git"
+  },
+  "author": "Soren Rowden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SorenCharlie/LogoGenerator/issues"
+  },
+  "homepage": "https://github.com/SorenCharlie/LogoGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
