@@ -13,8 +13,6 @@ Soren Rowden
 ## Test Instructions
 run nmp test to test the shapes.test.js file
 
-This application is covered under the GNU GPLv3.
-
 ## Questions
 SorenCharlie https://github.com/SorenCharlie 
 For any questions, please email sorenr2209@gmail.com.
