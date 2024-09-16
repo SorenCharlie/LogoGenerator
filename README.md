@@ -18,4 +18,4 @@ SorenCharlie https://github.com/SorenCharlie
 For any questions, please email sorenr2209@gmail.com.
 
 ## Video Walkthrough Link
-<iframe src="https://drive.google.com/file/d/1yJpe0_TkDJk6AJA7xQSHdjVOQsMQyc6p/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1rTys_y9wW5oiWbLYlGPIt3n95I1DcE_Y/view
